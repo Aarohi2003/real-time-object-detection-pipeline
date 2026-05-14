@@ -1,0 +1,9 @@
+opencv-python
+opencv-contrib-python
+numpy
+matplotlib
+torch
+torchvision
+tensorflow
+ultralytics
+scikit-image
